@@ -2,7 +2,6 @@
 layout: default
 ---
 
-#How to Make Pancakes
 
 **Hello, and welcome to my site!** Here I will show you my way to make pancakes but also provide you with other ways to make them as well. I want this to be a community page, so please, feel free to leave comments!
 
