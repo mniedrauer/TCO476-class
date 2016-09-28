@@ -1,5 +1,5 @@
 ---
-layout: web
+layout: page
 title: "Reference"
 permalink: /reference/
 ---
