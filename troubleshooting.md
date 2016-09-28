@@ -4,8 +4,6 @@ title: Troubleshooting
 permalink: /troubleshooting/
 ---
 
-# Troubleshooting
-
 Let's talk about some errors you may have:
 
 1.**What do I do when my batter is too thin or too thick?**
