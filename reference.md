@@ -1,6 +1,6 @@
 ---
 layout: web
-title: Reference
+title: "Reference"
 permalink: /reference/
 ---
 
