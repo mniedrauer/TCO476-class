@@ -2,22 +2,13 @@
 layout: default
 ---
 
-<div class="home">
+#How to Make Pancakes
 
-  <h1 class="page-heading">Posts</h1>
+**Hello, and welcome to my site!** Here I will show you my way to make pancakes but also provide you with other ways to make them as well. I want this to be a community page, so please, feel free to leave comments!
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+My site is designed to show both new pancake makers as well as old pancake makers some tips and tricks. I have several pages to meet your needs:
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-</div>
+ - **Procedure**: This page contains my basic instructions on how to make pancakes. It will also contain some tips and tricks for how to know when to flip pancakes over and what to do if the batter is too thick or too thin.
+ - **Reference**: This page will provide you some information about which pancake mixes to choose and pans to use.
+ - **Related Information**: This page gives you some variations from regular pancakes, such as chocolate pancakes or even waffles.
+ - **Troubleshooting**: This page will provide you with more help as you run into trouble. Don't see a question you have? Write it in the comments!
