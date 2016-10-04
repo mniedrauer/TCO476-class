@@ -20,3 +20,9 @@ However, there are many other brands you can use:
 
 * **Hungry Jack**
 > Hungry Jack has some good mixes too. They come in large boxes, however, so only buy it if you are planning to make a lot of pancakes.
+
+* **Aunt Jemima**
+> Again, this is also a good choice of pancakes mix.
+
+* **Homemade**
+> Once you get the hand of pancake making, you may want to try to create your batter from scratch. This process will take longer but make the pancakes so much tastier!
