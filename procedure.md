@@ -20,4 +20,3 @@ permalink: /procedure/
 
 4. Once the pan is hot, pour a small amount of the batter onto the pan. Luckily, my bowl had a lip that allowed me to use it to pour the batter. However, if yours does not, you can use a small measuring cup or something similiar; it really is up to you how you want to pour the batter and how much you want to pour.
 
-![Pancake](images/pancake.m4v?raw=true)
