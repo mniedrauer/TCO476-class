@@ -18,4 +18,6 @@ permalink: /procedure/
 
 3. While the pan is heating up, make the pancake batter by combining the mix and water as required by the package directions. The batter should be slightly lumpy when you are finished mixing.
 
-![Batter](<iframe src='https://gfycat.com/ifr/ImpeccableUnfitFlyingfox' frameborder='0' scrolling='no' width='640' height='1138' allowfullscreen></iframe>)
+4. Once the pan is hot, pour a small amount of the batter onto the pan. Luckily, my bowl had a lip that allowed me to use it to pour the batter. However, if yours does not, you can use a small measuring cup or something similiar; it really is up to you how you want to pour the batter and how much you want to pour.
+
+![Pancake](images/pancake.m4v?raw=true)
