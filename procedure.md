@@ -18,4 +18,4 @@ permalink: /procedure/
 
 3. While the pan is heating up, make the pancake batter by combining the mix and water as required by the package directions. The batter should be slightly lumpy when you are finished mixing.
 
-![Batter](<div style='position:relative;padding-bottom:178%'><iframe src='https://gfycat.com/ifr/PointlessFavoriteEel' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>)
+![Batter](<iframe src='https://gfycat.com/ifr/ImpeccableUnfitFlyingfox' frameborder='0' scrolling='no' width='640' height='1138' allowfullscreen></iframe>)
