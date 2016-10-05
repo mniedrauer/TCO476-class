@@ -7,10 +7,8 @@ permalink: /related_information/
 # Regular Pancakes Too Boring for You? Try These Variations!
 
 1. **Chocolate Chips**
-
   ---
- Try adding 1/3 cup of mini chocolate chips. 
-You may decide to add more if you like your pancakes very chocolate-y.
+  Add 1/3 cup of mini chocolate chips to the batter.
   ---
    
 2. **Blueberries**
