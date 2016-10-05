@@ -15,7 +15,7 @@ permalink: /procedure/
    
    ---
 
-2. Now turn on the stove. Your package instructions may tell you a specific temperature (for example, mine said 375 degrees), which isn't helpful when the dial displays single-digit numbers. The picture below shows approximately where you should set the dial on your stove. 
+(@) 2. Now turn on the stove. Your package instructions may tell you a specific temperature (for example, mine said 375 degrees), which isn't helpful when the dial displays single-digit numbers. The picture below shows approximately where you should set the dial on your stove. 
 
    ---
    ![Temp](/images/temp.jpg?raw=true)
