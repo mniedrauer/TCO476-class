@@ -8,7 +8,7 @@ permalink: /related_information/
 
 1. **Chocolate Chips**
 
-...Try adding 1/3 cup of mini chocolate chips to your batter.
+..Try adding 1/3 cup of mini chocolate chips to your batter.
 
 2. **Blueberries**
   ---
