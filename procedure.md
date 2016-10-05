@@ -9,9 +9,9 @@ permalink: /procedure/
 1. First, set your pan or griddle on the stove top and spray with non-stick cooking spray.
 
    ---
-   ![Griddle](https://github.com/mniedrauer/TCO476-class/tree/master/images/griddle.jpg?raw=true)
+   ![Griddle](https://github.com/mniedrauer/TCO476-class/tree/master/images/griddle.jpg)
 
-   ![Sprayed](https://github.com/mniedrauer/TCO476-class/tree/master/images/sprayed.jpg?raw=true)
+   ![Sprayed](https://github.com/mniedrauer/TCO476-class/tree/master/images/sprayed.jpg)
    
    ---
 
