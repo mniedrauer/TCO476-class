@@ -29,7 +29,7 @@ permalink: /related_information/
   Try different toppings with your pancakes. Add some blueberries, strawberries, bananas–whatever you like to eat. 
   ---
 
-5. **Waffles*
+5. **Waffles**
   ---
   The great thing about pancake mixes is that they always come with instructions on how to make waffles. If you get tired of pancakes, try making waffles instead!
   ---
