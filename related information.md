@@ -14,7 +14,7 @@ permalink: /related_information/
    
 2. **Blueberries**
   ---
- Add 1 cup of fresh or frozen blueberries to the batter.
+Add 1 cup of fresh or frozen blueberries to the batter.
   ---
   
 3.  **Cornbread**
@@ -22,7 +22,7 @@ permalink: /related_information/
   Call me crazy, but these are actually pretty good. I tried cornbread pancakes when iHop had them years ago, and they were so good. Give these a try if you like cornbread.
   > **Warning:** This recipe requires more than just mix and water. 
   
-Check out the recipe [here](http://allrecipes.com/recipe/191710/cornbread-pancakes/)!
+  Check out the recipe [here](http://allrecipes.com/recipe/191710/cornbread-pancakes/)!
   ---
   
 4. **Toppings**
