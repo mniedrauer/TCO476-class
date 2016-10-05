@@ -22,7 +22,7 @@ permalink: /related_information/
 
   ---
   Call me crazy, but cornbread pancakes are so good. I had them at iHop a few years ago and fell in love. Give them a shot!
-  > **Warning:** This recipe requires more than just mix and water.
+  >**Warning:** This recipe requires more than just mix and water.
   
   Check out the recipe [here](http://allrecipes.com/recipe/191710/cornbread-pancakes/)!
   ---
