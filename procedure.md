@@ -9,16 +9,16 @@ permalink: /procedure/
 1. First, set your pan or griddle on the stove top and spray with non-stick cooking spray.
 
    ---
-   ![Griddle](images/griddle.jpg?raw=true)
+   ![Griddle](https://github.com/mniedrauer/TCO476-class/tree/master/images/griddle.jpg)
 
-   ![Sprayed](images/sprayed.jpg?raw=true)
+   ![Sprayed](https://github.com/mniedrauer/TCO476-class/tree/master/images/sprayed.jpg)
    
    ---
 
 2. Now turn on the stove. Your package instructions may tell you a specific temperature (for example, mine said 375 degrees), which isn't helpful when the dial displays single-digit numbers. The picture below shows approximately where you should set the dial on your stove. 
 
    ---
-   ![Temp](images/temp.jpg?raw=true)
+   ![Temp](https://github.com/mniedrauer/TCO476-class/tree/master/images/temp.jpg?raw=true)
    
    ---
 
@@ -29,7 +29,7 @@ permalink: /procedure/
 5. Wait a few minutes before flipping the pancake(s) over. This process is one that you will have to learn for yourself. The best way to describe how you know the pancake is ready is the edges will look almost plastic-y. 
 
    ---
-   ![time](images/time.jpg?raw=true)
+   ![time](https://github.com/mniedrauer/TCO476-class/tree/master/images/time.jpg?raw=true)
    
    ---
 
@@ -38,6 +38,6 @@ permalink: /procedure/
 7. Continue this process until all your batter is gone. Ta-dah!
 
    ---
-   ![finish](images/finish.jpg?raw=true)
+   ![finish](https://github.com/mniedrauer/TCO476-class/tree/master/images/finish.jpg?raw=true)
    
    ---
