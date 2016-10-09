@@ -20,7 +20,7 @@ However, there are many other brands you can use:
 
 >This is my favorite because you literally get to use the container to pour the water in, put the lid on, and shake to mix the batter. You can also pour the batter onto the pan straight from the container. It is definitely a dirty-dish saver.
 
-![Bisquick](/images/bisquick/jpg?raw=true)
+![Bisquick](/images/bisquick.jpg?raw=true)
 
 * **Hungry Jack**
 
