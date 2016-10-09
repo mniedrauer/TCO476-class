@@ -20,13 +20,19 @@ However, there are many other brands you can use:
 
 >This is my favorite because you literally get to use the container to pour the water in, put the lid on, and shake to mix the batter. You can also pour the batter onto the pan straight from the container. It is definitely a dirty-dish saver.
 
+![Bisquick](/images/bisquick/jpg?raw=true)
+
 * **Hungry Jack**
 
 >Hungry Jack has some good mixes too. They come in large boxes, however, so only buy it if you are planning to make a lot of pancakes.
 
+![Hungryjack](/images/hungryjack.jpeg?raw=true)
+
 * **Aunt Jemima**
 
 >Again, this is also a good choice of pancakes mix.
+
+![AuntJemima](/images/auntjemima.png?raw=true)
 
 * **Homemade**
 
