@@ -3,6 +3,8 @@ layout: default
 ---
 
 
+![Pancakes](/images/pancakes.jpg?raw=true)
+
 **Hello, and welcome to my site!** Here I will show you my way to make pancakes but also provide you with other ways to make them as well. I want this to be a community page, so please, feel free to leave comments!
 
 My site is designed to show both new pancake makers as well as old pancake makers some tips and tricks. I have several pages to meet your needs:
