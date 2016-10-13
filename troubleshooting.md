@@ -37,7 +37,7 @@ I recommend the second option because having thin batter is not that big of a de
   
   ---
 
-4.**What is a good way to clean up burned-n pancakes?**
+4.**What is a good way to clean up burned-on pancakes?**
 
   ---
   Fill the pan with about 2 - 3 inches of water. Add 1/4 cup of baking soda. Bring the mixture to a boil and allow to simmer rapidly for 15 minutes. After a half hour, wash the pot or pan as usual, gently scrubbing. If the burnt residue is stubborn, simply repeat the process.
