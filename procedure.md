@@ -6,7 +6,7 @@ permalink: /procedure/
 
 # Let's Make Pancakes!
 
-1. Set your pan, or griddle on the stove top, and spray the pan/griddle with non-stick cooking spray.
+1. Set your pan or griddle on the stove top, and spray the pan/griddle with non-stick cooking spray.
 
       ---
       ![Griddle](/images/griddle.jpg?raw=true)
